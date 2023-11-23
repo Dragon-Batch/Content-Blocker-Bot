@@ -23,7 +23,7 @@
 11. goto that link to add the bot to your server
 
 ## Optional (Recommended)
-### You can unselect "PUBLIC BOT" to make the bot so no one exept you can add it
+### in the "Bot" tab you can unselect "PUBLIC BOT" to make the bot so no one exept you can add it
 
 # Startup
 1. double click "bot.py"
