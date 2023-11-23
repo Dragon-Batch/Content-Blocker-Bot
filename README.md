@@ -17,7 +17,7 @@
 5. scroll down on the bot tab under "Privileged Gateway Intents", select "PRESENCE INTENT", "SERVER MEMBERS INTENT" and "MESSAGE CONTENT INTENT"
 6. Save Changes
 7. open notepad
-8. copy and paste https://discord.com/api/oauth2/authorize?client_id=``YOUR BOT ID``&permissions=274878000128&scope=bot into it
+8. copy and paste discord.com/api/oauth2/authorize?client_id=``YOUR BOT ID``&permissions=274878000128&scope=bot into it
 9. goto the "General Information" tab and copy your "APPLICATION ID"
 10. replace "YOUR BOT ID" in the notepad with your APPLICATION ID
 11. goto that link to add the bot to your server
